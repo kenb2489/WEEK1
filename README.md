@@ -1,2 +1,2 @@
 "# week1" 
-changes for video
+change for video
